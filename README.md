@@ -4,8 +4,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dawillygene&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dawillygene&theme=dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dawillygene&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dawillygene)<br/>
+<!--  ![](https://github-readme-streak-stats.herokuapp.com/?user=dawillygene&theme=dark&hide_border=false)<br/>  -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dawillygene&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
