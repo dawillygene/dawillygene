@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @dawillygene<br>👀software engineering<br>🌱 I’m looking to collaborate on ...<br>📫 How to reach me ... whatsapp +255753225961
+👋 Hi, I’m @dawillygene<br>👀software engineering<br>🌱 I’m looking to collaborate on ...<br>
 
 
 # 📊 GitHub Stats:
