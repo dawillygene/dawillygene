@@ -1,4 +1,4 @@
-8<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C2FF&center=true&vCenter=true&width=700&lines=Dawilly+Gene;Software+Engineer;Full+Stack+Developer;Mobile+%26+Web+Systems+Architect;Building+Scalable+Digital+Solutions" />
 </p>
 
@@ -98,4 +98,4 @@ A secure internal file management and transfer platform for an organization.
 </div>
 
 ---
-1 2
+1 2 3
