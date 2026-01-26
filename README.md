@@ -90,6 +90,8 @@ A secure internal file management and transfer platform for an organization.
 
 [![Committers Badge](https://user-badge.committers.top/tanzania_public/dawillygene.svg)](https://user-badge.committers.top/tanzania_public/dawillygene)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dawillygene)](https://git.io/streak-stats)
+
 ---
 
 <div align="center">
