@@ -7,10 +7,10 @@ I build reliable, maintainable systems with a focus on clean architecture and pe
 ### Technical Scope
 
 **Languages**
-C · C++ · Rust · Python · TypeScript · Go · PHP
+C · C++ · Rust · Python · TypeScript · Go · PHP · Java
 
 **Frameworks & Runtimes**
-Laravel · Node.js · Actix · Rocket
+Laravel · Node.js · Actix · Rocket · Springboot · Django
 
 **Systems & Infrastructure**
 Linux · Docker · Kubernetes · AWS · CI/CD · Terraform
