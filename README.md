@@ -1,55 +1,203 @@
-## Dawillygene — Software Engineer
+<div align="center">
 
-I build reliable, maintainable systems with a focus on clean architecture and performance.
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="black"/>
 
----
+  <!-- Glowing Text -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        fill="#00ff41" font-size="48" font-family="monospace">
+    dawillygene | Blackcode
+    <animate attributeName="opacity"
+             values="1;0.6;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </text>
 
-### Technical Scope
+  <!-- Scan Line -->
+  <rect x="0" y="-10" width="800" height="10" fill="#00ff41" opacity="0.3">
+    <animate attributeName="y"
+             from="-10"
+             to="200"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </rect>
+</svg>
 
-**Languages**
-C · C++ · Rust · Python · TypeScript · Go · PHP · Java
+</div>
+<!-- 🖤 MATRIX PURE MODE -->
 
-**Frameworks & Runtimes**
-Laravel · Node.js · Actix · Rocket · Springboot · Django
+<div align="center">
 
-**Systems & Infrastructure**
-Linux · Docker · Kubernetes · AWS · CI/CD · Terraform
+<!-- 💎 CUSTOM ANIMATED SVG BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=200&section=header&text=CreepyLewis&fontColor=00ff41&fontSize=60&animation=fadeIn&fontAlignY=35&desc=System%20Online&descAlignY=55&descAlign=50" />
 
-**Databases**
-PostgreSQL · MySQL · Redis · MongoDB
-
-**Domains**
-Distributed Systems · Systems Programming · Backend Engineering · Web Applications · Performance Optimization
-
----
-
-### Engineering Principles
-
-- Write code that the next engineer can understand without documentation.
-- Optimize for correctness first, performance second.
-- Ship incrementally, refactor relentlessly.
-- Own the full lifecycle: design, build, test, deploy, monitor.
-
----
-
-### Currently
-
-Building high-performance backend services with Laravel and Rust. Contributing to systems-level open source projects. Exploring formal verification and database internals.
+</div>
 
 ---
 
-### Activity
+<div align="center">
+
+<!-- ⚡ TERMINAL TYPING -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&gradient=00FF41,FF00FF,00FFFF,00FF41&lines=Accessing+Mainframe...;Full+Stack+Developer;AI+%7C+Automation+%7C+Systems;Main+Character,+Low+Budget;System+Status:+OPERATIONAL" />
+
+</div>
+
+---
+<table width="100%">
+  <tr>
+    <!-- Left column -->
+    <td align="left" width="50%" valign="top"> 
+      <a href="https://wakatime.com/@965d3a19-7d06-48f7-b33b-de8cc987db01"><img src="https://wakatime.com/badge/user/965d3a19-7d06-48f7-b33b-de8cc987db01.svg" alt="Total time coded since Feb 19 2026" /></a>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=dawillygene&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/followers/dawillygene?style=social" alt="Followers"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/CreepyLewis?style=social" alt="Stars"/>
+      </p>
+    </td>
+    <!-- Right column: GIF -->
+    <td align="right" width="50%" valign="top">
+      <img alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 My Live Apps
+
+<details>
+<summary>📱 View My Apps</summary>
+
+<br>
+
+<div align="center">
+
+| **🏠 House Vacancy Finder** | **💞 LinkUp Dating App** | **🎬 Movie Recommender** | **📊 Kenya Data Viz Hub** | **🤖 AI GitHub Analyzer** |
+|-----------------------------|--------------------------|--------------------------|---------------------------|---------------------------|
+| [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://house-vacancy-finder.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://linkup-dating-app.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://creepy-movie-recommender.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://kenya-data-visualization-app.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://ai-app-project-analyzer.streamlit.app/) |
+| ![Private](https://img.shields.io/badge/Private-Yes-red) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/CreepyLewis/linkup-dating-app) | ![Repo Size](https://img.shields.io/github/repo-size/CreepyLewis/movie-recommender) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/CreepyLewis/kenya-data-visualization-hub) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/CreepyLewis/ai-github-project-analyzer) |
+| Helps users find available rental houses quickly and easily. | A modern matchmaking platform connecting people based on interests. | Recommends films based on user preferences using TMDB. | Visualizes Kenyan datasets with interactive charts and insights. | Analyzes AI/ML projects with insights and recommendations. |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB-01D277?style=flat&logo=tmdb&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![AI](https://img.shields.io/badge/AI-Powered-blue) |
+
+</div>
+
+</details>
+
+---
+
+# 📊 GitHub Stats
+
+### 🏆 Overview
+![CreepyLewis's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=dawillygene&show_icons=true&theme=nightowl)  
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=CreepyLewis&theme=nightowl)](https://github.com/dawillygene)
+
+### 💻 Languages
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CreepyLewis&theme=nightowl&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)  
+
+### 🏅 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=dawillygene&theme=nightowl)
+
+
+</div>
+
+---
+
+# 🔐 Secure Channels
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawillygene&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <b>Safe • Direct • Verified Communication Channels</b><br>
+  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawillygene&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+<div align="center">
+
+<!-- Primary Contact -->
+
+<a href="https://wa.me/254712533278?text=Hi%20dawillygene%2C%20I%20found%20you%20on%20GitHub" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Primary%20Contact-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" />
+</a>
+<br><br>
+
+<!-- Social & Professional -->
+
+<a href="https://github.com/dawillygene" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/dawillygene" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://x.com/dawillygene" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" />
+</a>
+<br><br>
+
+<!-- Creative & Social -->
+
+<a href="https://instagram.com/lewis.karl7" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://tiktok.com/@lewis.karl7" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://youtube.com/@LEWISKITHOME-I9y" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://open.spotify.com/user/creepylewis" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
-### Selected Work
+# ⚡ AUTO-UPDATING QUOTE SYSTEM
 
-Professional repositories are available upon request. Open source contributions are linked below.
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
+### ☕ Fuel The Machine
+
+Support my work and help me build more projects:
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/R6KW8ZE257BYU)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lewiskitho2)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/CreepyLewis)
+[![Binance Pay (ETH)](https://img.shields.io/badge/Binance_Pay-ETH-F0B90B?style=for-the-badge&logo=binance&logoColor=white)](https://www.binance.com/en/pay?recipient=0x6DaBf346cBc485B6D310ce911F7572333d0a44B1)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dawillygene/CreepyLewis/output/snake-dark.svg" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dawillygene&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+<p align="center">
+  <a href="https://open.spotify.com/user/creepylewis">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rgt7qptsff3ktwr52mccl5fpby&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=1DB954&bar_color_cover=true" />
+  </a>
+</p>
