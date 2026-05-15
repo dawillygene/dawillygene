@@ -55,7 +55,7 @@
         <img src="https://img.shields.io/github/followers/dawillygene?style=social" alt="Followers"/>
       </p>
       <p>
-        <img src="https://img.shields.io/github/stars/CreepyLewis?style=social" alt="Stars"/>
+        <img src="https://img.shields.io/github/stars/dawillygene?style=social" alt="Stars"/>
       </p>
     </td>
     <!-- Right column: GIF -->
@@ -79,7 +79,7 @@
 | **🏠 House Vacancy Finder** | **💞 LinkUp Dating App** | **🎬 Movie Recommender** | **📊 Kenya Data Viz Hub** | **🤖 AI GitHub Analyzer** |
 |-----------------------------|--------------------------|--------------------------|---------------------------|---------------------------|
 | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://house-vacancy-finder.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://linkup-dating-app.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://creepy-movie-recommender.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://kenya-data-visualization-app.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://ai-app-project-analyzer.streamlit.app/) |
-| ![Private](https://img.shields.io/badge/Private-Yes-red) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/CreepyLewis/linkup-dating-app) | ![Repo Size](https://img.shields.io/github/repo-size/CreepyLewis/movie-recommender) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/CreepyLewis/kenya-data-visualization-hub) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/CreepyLewis/ai-github-project-analyzer) |
+| ![Private](https://img.shields.io/badge/Private-Yes-red) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/dawillygene/linkup-dating-app) | ![Repo Size](https://img.shields.io/github/repo-size/dawillygene/movie-recommender) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/dawillygene/kenya-data-visualization-hub) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/dawillygene/ai-github-project-analyzer) |
 | Helps users find available rental houses quickly and easily. | A modern matchmaking platform connecting people based on interests. | Recommends films based on user preferences using TMDB. | Visualizes Kenyan datasets with interactive charts and insights. | Analyzes AI/ML projects with insights and recommendations. |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB-01D277?style=flat&logo=tmdb&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![AI](https://img.shields.io/badge/AI-Powered-blue) |
 
@@ -92,11 +92,11 @@
 # 📊 GitHub Stats
 
 ### 🏆 Overview
-![CreepyLewis's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=dawillygene&show_icons=true&theme=nightowl)  
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=CreepyLewis&theme=nightowl)](https://github.com/dawillygene)
+![dawillygene's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=dawillygene&show_icons=true&theme=nightowl)  
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=dawillygene&theme=nightowl)](https://github.com/dawillygene)
 
 ### 💻 Languages
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CreepyLewis&theme=nightowl&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)  
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dawillygene&theme=nightowl&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)  
 
 ### 🏅 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=dawillygene&theme=nightowl)
@@ -146,7 +146,7 @@
 <a href="https://youtube.com/@LEWISKITHOME-I9y" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
 </a>
-<a href="https://open.spotify.com/user/creepylewis" target="_blank">
+<a href="https://open.spotify.com/user/dawillygene" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge" />
 </a>
 
@@ -170,7 +170,7 @@ Support my work and help me build more projects:
 
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/R6KW8ZE257BYU)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lewiskitho2)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/CreepyLewis)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/dawillygene)
 [![Binance Pay (ETH)](https://img.shields.io/badge/Binance_Pay-ETH-F0B90B?style=for-the-badge&logo=binance&logoColor=white)](https://www.binance.com/en/pay?recipient=0x6DaBf346cBc485B6D310ce911F7572333d0a44B1)
 
 </div>
@@ -181,7 +181,7 @@ Support my work and help me build more projects:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dawillygene/CreepyLewis/output/snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/dawillygene/dawillygene/output/snake-dark.svg" />
 
 </div>
 
@@ -197,7 +197,7 @@ Support my work and help me build more projects:
 
 ---
 <p align="center">
-  <a href="https://open.spotify.com/user/creepylewis">
+  <a href="https://open.spotify.com/user/dawillygene">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rgt7qptsff3ktwr52mccl5fpby&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=1DB954&bar_color_cover=true" />
   </a>
 </p>
