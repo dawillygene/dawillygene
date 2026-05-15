@@ -6,7 +6,7 @@
   <!-- Glowing Text -->
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         fill="#00ff41" font-size="48" font-family="monospace">
-    dawillygene | Blackcode
+    dawillygene | The Blackcode
     <animate attributeName="opacity"
              values="1;0.6;1"
              dur="2s"
