@@ -67,28 +67,6 @@
 
 ---
 
-## 🚀 My Live Apps
-
-<details>
-<summary>📱 View My Apps</summary>
-
-<br>
-
-<div align="center">
-
-| **🏠 House Vacancy Finder** | **💞 LinkUp Dating App** | **🎬 Movie Recommender** | **📊 Kenya Data Viz Hub** | **🤖 AI GitHub Analyzer** |
-|-----------------------------|--------------------------|--------------------------|---------------------------|---------------------------|
-| [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://house-vacancy-finder.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://linkup-dating-app.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://creepy-movie-recommender.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://kenya-data-visualization-app.streamlit.app/) | [![Open App](https://img.shields.io/badge/Open-App-brightgreen)](https://ai-app-project-analyzer.streamlit.app/) |
-| ![Private](https://img.shields.io/badge/Private-Yes-red) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/dawillygene/linkup-dating-app) | ![Repo Size](https://img.shields.io/github/repo-size/dawillygene/movie-recommender) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/dawillygene/kenya-data-visualization-hub) | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/dawillygene/ai-github-project-analyzer) |
-| Helps users find available rental houses quickly and easily. | A modern matchmaking platform connecting people based on interests. | Recommends films based on user preferences using TMDB. | Visualizes Kenyan datasets with interactive charts and insights. | Analyzes AI/ML projects with insights and recommendations. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB-01D277?style=flat&logo=tmdb&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![AI](https://img.shields.io/badge/AI-Powered-blue) |
-
-</div>
-
-</details>
-
----
-
 # 📊 GitHub Stats
 
 ### 🏆 Overview
