@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:10B981&height=160&section=header&text=dawillygene&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20%26%20Automation&descSize=18&descAlignY=68" width="100%" alt="dawillygene"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:10B981&height=160&section=header&text=dawillygene&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Embedded%20%26%20Web%20Developer&descSize=18&descAlignY=68" width="100%" alt="dawillygene"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Designing+AI-powered+automation;Turning+ideas+into+reliable+systems" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Full-stack+%7C+Laravel+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Spring+Boot;Embedded+systems+%26+IoT;Building+payment+and+mobility+solutions" alt="Typing intro"/>
 
 <br/>
 
@@ -17,11 +17,12 @@
 
 ## About Me
 
-I'm a full stack developer based in Tanzania, focused on building clean, dependable software, from web applications and APIs to AI-driven automation that saves people real time. I care about maintainable code, thoughtful system design, and shipping products that work in the real world.
+I'm a Software Engineering student and full-stack developer from Dar es Salaam, Tanzania, working at **ByteSphere Technologies Ltd.** I build web platforms, payment integrations, and embedded systems, with a focus on clean architecture and software that solves real local problems.
 
-- 🔭 **Currently building:** _add your current project here_
-- 🌱 **Exploring:** AI agents, workflow automation, and scalable backend architecture
-- 🤝 **Open to:** freelance work, collaborations, and full-time opportunities
+- 💼 **Working at:** ByteSphere Technologies Ltd.
+- 🛠️ **Core stack:** Laravel, Node.js, React, Spring Boot
+- 🔌 **Also into:** embedded systems, Android (Kotlin), and automation with Python
+- 🤝 **Open to:** freelance work, collaborations, and internships
 - 🌐 **Portfolio:** [dawillygene.com](https://dawillygene.com)
 
 ---
@@ -29,28 +30,26 @@ I'm a full stack developer based in Tanzania, focused on building clean, dependa
 ## Tech Stack
 
 <p align="center">
-  <!-- Edit the list after ?i= to match exactly what you use: https://skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,react,nextjs,nodejs,express,tailwind,mysql,postgres,mongodb,docker,linux,git,github&perline=8" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,react,tailwind,java,spring,kotlin,python,c,cpp,arduino,mysql,postgres,docker,linux,git,github&perline=10" alt="Tech stack"/>
 </p>
 
 ---
 
 ## Featured Projects
 
-<!-- Replace REPO_ONE ... REPO_FOUR with your best repository names -->
 <p align="center">
-  <a href="https://github.com/dawillygene/REPO_ONE">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=REPO_ONE&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project one"/>
+  <a href="https://github.com/dawillygene/clickpesa-laravel">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=clickpesa-laravel&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project one"/>
   </a>
-  <a href="https://github.com/dawillygene/REPO_TWO">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=REPO_TWO&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project two"/>
+  <a href="https://github.com/dawillygene/BodaConnect">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=BodaConnect&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project two"/>
   </a>
   <br/>
-  <a href="https://github.com/dawillygene/REPO_THREE">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=REPO_THREE&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project three"/>
+  <a href="https://github.com/dawillygene/SMS-FINE-TUNING">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=SMS-FINE-TUNING&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project three"/>
   </a>
-  <a href="https://github.com/dawillygene/REPO_FOUR">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=REPO_FOUR&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project four"/>
+  <a href="https://github.com/dawillygene/ytaria-manager">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=ytaria-manager&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project four"/>
   </a>
 </p>
 
