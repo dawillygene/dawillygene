@@ -1,181 +1,100 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="200" fill="black"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:10B981&height=160&section=header&text=dawillygene&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20%26%20Automation&descSize=18&descAlignY=68" width="100%" alt="dawillygene"/>
 
-  <!-- Glowing Text -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        fill="#00ff41" font-size="48" font-family="monospace">
-    dawillygene | The Blackcode
-    <animate attributeName="opacity"
-             values="1;0.6;1"
-             dur="2s"
-             repeatCount="indefinite"/>
-  </text>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Designing+AI-powered+automation;Turning+ideas+into+reliable+systems" alt="Typing intro"/>
 
-  <!-- Scan Line -->
-  <rect x="0" y="-10" width="800" height="10" fill="#00ff41" opacity="0.3">
-    <animate attributeName="y"
-             from="-10"
-             to="200"
-             dur="3s"
-             repeatCount="indefinite"/>
-  </rect>
-</svg>
+<br/>
 
-</div>
-<!-- 🖤 MATRIX PURE MODE -->
-
-<div align="center">
-
-<!-- 💎 CUSTOM ANIMATED SVG BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=200&section=header&text=dawillygene&fontColor=00ff41&fontSize=60&animation=fadeIn&fontAlignY=35&desc=System%20Online&descAlignY=55&descAlign=50" />
+<a href="https://dawillygene.com"><img src="https://img.shields.io/badge/Website-dawillygene.com-10B981?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://linkedin.com/in/dawillygene"><img src="https://img.shields.io/badge/LinkedIn-dawillygene-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/dawillygene"><img src="https://img.shields.io/badge/X-@dawillygene-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://wa.me/254712533278?text=Hi%20dawillygene%2C%20I%20found%20you%20on%20GitHub"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-<!-- ⚡ TERMINAL TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&gradient=00FF41,FF00FF,00FFFF,00FF41&lines=Accessing+Mainframe...;Full+Stack+Developer;AI+%7C+Automation+%7C+Systems;Main+Character,+Low+Budget;System+Status:+OPERATIONAL" />
+I'm a full stack developer based in Tanzania, focused on building clean, dependable software, from web applications and APIs to AI-driven automation that saves people real time. I care about maintainable code, thoughtful system design, and shipping products that work in the real world.
 
-</div>
-
----
-<table width="100%">
-  <tr>
-    <!-- Left column -->
-    <td align="left" width="50%" valign="top"> 
-      <a href="https://wakatime.com/@965d3a19-7d06-48f7-b33b-de8cc987db01"><img src="https://wakatime.com/badge/user/965d3a19-7d06-48f7-b33b-de8cc987db01.svg" alt="Total time coded since Feb 19 2026" /></a>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=dawillygene&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/followers/dawillygene?style=social" alt="Followers"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/dawillygene?style=social" alt="Stars"/>
-      </p>
-    </td>
-    <!-- Right column: GIF -->
-    <td align="right" width="50%" valign="top">
-      <img alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
-    </td>
-  </tr>
-</table>
+- 🔭 **Currently building:** _add your current project here_
+- 🌱 **Exploring:** AI agents, workflow automation, and scalable backend architecture
+- 🤝 **Open to:** freelance work, collaborations, and full-time opportunities
+- 🌐 **Portfolio:** [dawillygene.com](https://dawillygene.com)
 
 ---
 
-# 📊 GitHub Stats
-
-### 🏆 Overview
-![dawillygene's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=dawillygene&show_icons=true&theme=nightowl)  
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=dawillygene&theme=nightowl)](https://github.com/dawillygene)
-
-### 💻 Languages
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dawillygene&theme=nightowl&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)  
-
-### 🏅 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=dawillygene&theme=nightowl)
-
-
-</div>
-
----
-
-# 🔐 Secure Channels
+## Tech Stack
 
 <p align="center">
-  <b>Safe • Direct • Verified Communication Channels</b><br>
-  
+  <!-- Edit the list after ?i= to match exactly what you use: https://skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,react,nextjs,nodejs,express,tailwind,mysql,postgres,mongodb,docker,linux,git,github&perline=8" alt="Tech stack"/>
 </p>
 
-<div align="center">
-
-<!-- Primary Contact -->
-
-<a href="https://wa.me/254712533278?text=Hi%20dawillygene%2C%20I%20found%20you%20on%20GitHub" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Primary%20Contact-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" />
-</a>
-<br><br>
-
-<!-- Social & Professional -->
-
-<a href="https://github.com/dawillygene" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://linkedin.com/in/dawillygene" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://x.com/dawillygene" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" />
-</a>
-<br><br>
-
-<!-- Creative & Social -->
-
-<a href="https://instagram.com/lewis.karl7" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://tiktok.com/@lewis.karl7" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://youtube.com/@LEWISKITHOME-I9y" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://open.spotify.com/user/dawillygene" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge" />
-</a>
-
-</div>
-
 ---
 
-# ⚡ AUTO-UPDATING QUOTE SYSTEM
+## Featured Projects
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
----
-
-### ☕ Fuel The Machine
-
-Support my work and help me build more projects:
-
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/R6KW8ZE257BYU)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lewiskitho2)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/dawillygene)
-[![Binance Pay (ETH)](https://img.shields.io/badge/Binance_Pay-ETH-F0B90B?style=for-the-badge&logo=binance&logoColor=white)](https://www.binance.com/en/pay?recipient=0x6DaBf346cBc485B6D310ce911F7572333d0a44B1)
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-[![committers.top badge](https://user-badge.committers.top/tanzania_private/dawillygene.svg)](https://user-badge.committers.top/tanzania_private/dawillygene)
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dawillygene/dawillygene/output/snake-dark.svg" />
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dawillygene&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
+<!-- Replace REPO_ONE ... REPO_FOUR with your best repository names -->
 <p align="center">
-  <a href="https://open.spotify.com/user/dawillygene">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rgt7qptsff3ktwr52mccl5fpby&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=1DB954&bar_color_cover=true" />
+  <a href="https://github.com/dawillygene/REPO_ONE">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=REPO_ONE&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project one"/>
   </a>
+  <a href="https://github.com/dawillygene/REPO_TWO">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=REPO_TWO&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project two"/>
+  </a>
+  <br/>
+  <a href="https://github.com/dawillygene/REPO_THREE">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=REPO_THREE&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project three"/>
+  </a>
+  <a href="https://github.com/dawillygene/REPO_FOUR">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dawillygene&repo=REPO_FOUR&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="Project four"/>
+  </a>
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=dawillygene&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=8b949e" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dawillygene&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=10B981&text_color=8b949e" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dawillygene&theme=transparent&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@965d3a19-7d06-48f7-b33b-de8cc987db01"><img src="https://wakatime.com/badge/user/965d3a19-7d06-48f7-b33b-de8cc987db01.svg" alt="WakaTime"/></a>
+  <a href="https://user-badge.committers.top/tanzania_private/dawillygene"><img src="https://user-badge.committers.top/tanzania_private/dawillygene.svg" alt="committers.top badge"/></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawillygene/dawillygene/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawillygene/dawillygene/output/snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/dawillygene/dawillygene/output/snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+## Support My Work
+
+If my projects have helped you, consider supporting continued development:
+
+<p>
+  <a href="https://github.com/sponsors/dawillygene"><img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"/></a>
+  <a href="https://buymeacoffee.com/lewiskitho2"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+  <a href="https://www.paypal.com/ncp/payment/R6KW8ZE257BYU"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/></a>
+  <a href="https://www.binance.com/en/pay?recipient=0x6DaBf346cBc485B6D310ce911F7572333d0a44B1"><img src="https://img.shields.io/badge/Binance_Pay-ETH-F0B90B?style=flat-square&logo=binance&logoColor=white" alt="Binance Pay"/></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Let's build something great together → <a href="https://dawillygene.com">dawillygene.com</a></sub>
 </p>
