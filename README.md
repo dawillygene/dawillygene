@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a Software Engineering student and full-stack developer from Dar es Salaam, Tanzania, working at **ByteSphere Technologies Ltd.** I build web platforms, payment integrations, and embedded systems, with a focus on clean architecture and software that solves real local problems.
+I'm a Software Engineer and full-stack developer from Dar es Salaam, Tanzania, working at **ByteSphere Technologies Ltd.** I build web platforms, payment integrations, and embedded systems, with a focus on clean architecture and software that solves real local problems.
 
 - 💼 **Working at:** ByteSphere Technologies Ltd.
 - 🛠️ **Core stack:** Laravel, Node.js, React, Spring Boot
